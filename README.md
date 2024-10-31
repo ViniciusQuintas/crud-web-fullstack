@@ -1,6 +1,6 @@
 # Projeto CRUD de Clientes com Clean Architecture e SOLID Principles
 
-Este projeto é uma aplicação CRUD para gerenciar clientes, desenvolvida como parte de um desafio técnico. A aplicação permite criar, listar, editar, copiar e excluir registros de clientes, utilizando uma arquitetura baseada em princípios de **Clean Architecture**, **SOLID**, e **Design Patterns**. A aplicação é composta por um backend em **Node.js** com **Express** e um frontend em **Next.js**.
+Este projeto é uma aplicação CRUD para gerenciar clientes, desenvolvida como parte de um desafio técnico. A aplicação permite criar, listar, editar, copiar e excluir registros de clientes, utilizando uma arquitetura baseada em princípios de **Clean Architecture**, **SOLID**, e **Design Patterns**. A aplicação é composta por um backend em **Node.js** com **Express** e um frontend em **Next.js**. 
 
 ## Tecnologias Utilizadas
 
